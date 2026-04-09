@@ -44,17 +44,13 @@ To ensure mathematical rigor, this project relies on advanced statistical infere
 3. **Highly Predictable Seasonality:** The Time Series analysis revealed a strict 7-day cyclical "heartbeat," meaning BMRCL can highly optimize train frequency and station staffing based on these predictable drops.
 
 ---
-
 ## 📈 Visual Highlights
 
-
 ### The Rise of QR Ticketing (Substitution Effect)
-> `[![Stacked Area Chart](path_to_your_stacked_chart.png)](https://github.com/RCB13/namma-metro-analysis/blob/main/03_Pay_Meth.png)`
+![Stacked Area Chart](03_Pay_Meth.png)
 
 ### The 7-Day Transit "Heartbeat" (Time Series Decomposition)
-> `[![Time Series](path_to_your_time_series_chart.png)](https://github.com/RCB13/namma-metro-analysis/blob/main/03_time_seri.png)`
-
----
+![Time Series](03_time_seri.png)
 
 ## ⚙️ How to Run
 1. Clone this repository:
